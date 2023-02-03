@@ -1,1 +1,1 @@
-# JavaScript-Vezbi
+# JavaScript-Vezbi Filip Sekuloski G3
